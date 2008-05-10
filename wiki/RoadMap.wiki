@@ -1,6 +1,4 @@
 #labels Phase-Roadmap
-#The future development of the project.
-
 =Introduction=
 The Following is an overall vision for the future of the project.  With the world the way it is this road map can morph and change as new things come to the fore.
 
