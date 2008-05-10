@@ -1,0 +1,24 @@
+#labels Phase-Roadmap
+#The future development of the project.
+
+=Introduction=
+The Following is an overall vision for the future of the project.  With the world the way it is this road map can morph and change as new things come to the fore.
+
+=Versions=
+
+==0.5dev (May/08)==
+  * Implementation of more of the core Asterisk Manager API:
+    * [http://www.voip-info.org/wiki/index.php?page=Asterisk+Manager+API+Action+Redirect Redirect]
+    * [http://www.voip-info.org/wiki/index.php?page=Asterisk+Manager+API+Action+SetVar SetVar]
+    * [http://www.voip-info.org/wiki/index.php?page=Asterisk+Manager+API+Action+GetVar GetVar]
+    * [http://www.voip-info.org/wiki/index.php?page=Asterisk+Manager+API+Action+ParkedCalls ParkedCalls]
+
+==0.6dev (June/08)==
+  * Implementation of Zap commands ([http://www.voip-info.org/wiki/index.php?page=Asterisk+Manager+API+Action+ZapHangup ZapHangup], [http://www.voip-info.org/wiki/index.php?page=Asterisk+Manager+API+Action+ZapTransfer ZapTransfer], etc).
+  * Implementation of 1.4 config features: [http://www.voip-info.org/wiki/index.php?page=Asterisk+Manager+API+Action+GetConfig GetConfig] and [http://www.voip-info.org/wiki/index.php?page=Asterisk+Manager+API+Action+UpdateConfig UpdateConfig].
+
+
+==2.0dev (July/08)==
+  * Convert server returned strings into complex PHP data types (arrays, objects, etc) instead of simply strings.
+  * Begin development of AGI support.
+  * Begin active development of any new manager features introduced into Asterisk's latest 1.6 release (currently in beta).
