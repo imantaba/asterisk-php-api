@@ -1,0 +1,1 @@
+## This Project Has Moved to GitHub: [Asterisk PHP Man @ GitHub](https://github.com/OdinsHat/asterisk-php-manager) ##
